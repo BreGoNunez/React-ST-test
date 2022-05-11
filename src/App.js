@@ -1,4 +1,6 @@
 import logo from './logo.svg';
+import { InlineShareButtons } from 'sharethis-reactjs';
+import {config} from './components/InlineShareButtonsConf'
 import './App.css';
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <InlineShareButtons config={config}/>
       </header>
     </div>
   );
