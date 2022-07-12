@@ -19,7 +19,7 @@ export const config={
     size: 40,             // the size of each button (INTEGER)
 
     // OPTIONAL PARAMETERS
-    url: 'https://www.sharethis.com', // (defaults to current url)
+    url: 'https://bregonunez.github.io/React-ST-test/', // (defaults to current url)
     image: 'https://bit.ly/2CMhCMC',  // (defaults to og:image or twitter:image)
     description: 'custom text',       // (defaults to og:description or twitter:description)
     title: 'custom title',            // (defaults to og:title or twitter:title)
