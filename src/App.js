@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import { InlineShareButtons } from 'sharethis-reactjs';
 import {config} from './components/InlineShareButtonsConf'
 import './App.css';
+import React from 'react';
 
 function App() {
   return (
